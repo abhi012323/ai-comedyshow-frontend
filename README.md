@@ -16,7 +16,7 @@ To run the frontend locally:
 
     bash
 
-git clone https://github.com/your-repo/frontend.git
+git clone https://github.com/your-repo/frontend.git 
 cd frontend
 
 Install dependencies:
